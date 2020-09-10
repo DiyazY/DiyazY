@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img alt="Diyaz’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyazY&show_icons=true&hide-border=true"/>
 
-### Contacts
+### 📫 Contacts
 
 [<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
