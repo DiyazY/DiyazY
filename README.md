@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Diyaz!
-I'm a software engineer and big fun of web development ;). I have passions for programming, architecture, reading, design and art. That's why when I have leisure time, I read books, do some "pet" projects and try to write some blogs. I love learning something new and collaborate with interesting people. Likewise, I have a lovely family that firmly supports me and gives me the energy to do great stuff. 
+I'm a software engineer and a big fan of web development ;). I have passions for programming, architecture, reading, design and art. That's why when I have leisure time, I read books, do some "pet" projects and try to write some blogs. I love learning something new and collaborate with interesting people. Likewise, I have a lovely family that firmly supports me and gives me the energy to do great stuff. 
 <!--
 **DiyazY/DiyazY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
