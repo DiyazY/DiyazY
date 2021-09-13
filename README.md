@@ -3,25 +3,10 @@ I'm a software engineer and a big fan of web development ;). I have passions for
 
 📫 How to reach me: [mail](mailto:diyaz.yakubov@gmail.com) | [linktree](https://linktr.ee/diyaz)
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 --- 
 
 ### Goals
-- 👀 survive in 2020
+- ~~👀 survive in 2020~~
 - ⚡ organize the IT [community](https://dotnetfin.com/)
 - ⚡ busypipe: run MVP
 - 💬 enhance my twitter audience
