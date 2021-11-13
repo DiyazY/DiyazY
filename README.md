@@ -18,8 +18,8 @@ I'm a software engineer and a big fan of web development ;). I have passions for
  </ul>
 
 ### Stats
-<img width="450" align="left" alt="Diyaz’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyazY&show_icons=true&hide-border=true"/>
-<img width="450" align="right" alt="stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=DiyazY">  
+<img style="width:45%;" align="left" alt="Diyaz’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyazY&show_icons=true&hide-border=true"/>
+<img style="width:45%;" align="right" alt="stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=DiyazY">  
 
 <!-- ### Some achievements
 - gave my first public speech ([link](https://twitter.com/diyaz44916930/status/1205499081944109062?ref_src=twsrc%5Etfw)) -->
