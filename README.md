@@ -10,7 +10,7 @@ I'm a software engineer and a big fan of web development ;). I have passions for
 ### Goals
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyazy&layout=compact&langs_count=10)](https://github.com/diyazy"/>
 <ul align="left">
-  <li>⚡ organize the IT [community](https://dotnetfin.com/)</li>
+  <li>⚡ organize the IT <a href="https://dotnetfin.com/">community</a></li>
   <li>⚡ busypipe: run MVP</li>
   <li>💬 enhance my twitter audience</li>
   <li>📝 write 10 tech articles</li>
