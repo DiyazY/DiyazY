@@ -7,9 +7,6 @@ I'm a software engineer and a big fan of web development ;). I have passions for
 --- 
 
 ### Goals
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyazy&layout=compact&langs_count=10)](https://github.com/diyazy"/>
-</div>
 <ul align="left">
   <li>⚡ organize the IT <a href="https://dotnetfin.com/">community</a></li>
   <li>⚡ busypipe: run MVP</li>
@@ -21,7 +18,8 @@ I'm a software engineer and a big fan of web development ;). I have passions for
 ### Stats
 <div>
   <img alt="Diyaz’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyazY&show_icons=true&hide-border=true"/>
-  <img align="right" alt="stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=DiyazY">  
+<!--   <img align="right" alt="stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=DiyazY">   -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyazy&layout=compact&langs_count=10)](https://github.com/diyazy"/>
 </div>
 
 <!-- ### Some achievements
