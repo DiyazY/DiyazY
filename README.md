@@ -16,21 +16,5 @@ I'm a software engineer and a big fan of web development ;). I have passions for
  </ul>
 
 ### Stats
-<div>
-  <img alt="Diyaz’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyazY&show_icons=true&hide-border=true"/>
-<!--   <img align="right" alt="stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=DiyazY">   -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyazy&layout=compact&langs_count=10)](https://github.com/diyazy"/>
-</div>
-
-<!-- ### Some achievements
-- gave my first public speech ([link](https://twitter.com/diyaz44916930/status/1205499081944109062?ref_src=twsrc%5Etfw)) -->
-
-<!-- ### 📫 Contacts
-
-[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[mail]: mailto:diyaz.yakubov@gmail.com
-[linkedin]: https://www.linkedin.com/in/diyaz-y-4ba636116/
-[twitter]: https://twitter.com/diyaz44916930   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyazY&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyazY&layout=compact)
