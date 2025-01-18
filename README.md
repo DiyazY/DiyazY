@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Diyaz!
-I'm a software engineer and a big fan of web development ;). I have passions for programming, architecture, reading, design and art. That's why when I have leisure time, I read books, do some "pet" projects and try to write some blogs. I love learning something new and collaborate with interesting people. Likewise, I have a lovely family that firmly supports me and gives me the energy to do great stuff.  
+I’m a passionate software engineer with a strong focus on web development. Beyond coding, I’m deeply interested in programming, architecture, design, art, and reading. In my free time, I enjoy diving into books, working on personal projects, and sharing insights through blogging. I thrive on learning new skills and collaborating with inspiring people. My greatest source of motivation is my amazing family, who continually support me and fuel my drive to create meaningful work.
 <img src="https://komarev.com/ghpvc/?username=DiyazY&label=Profile%20views&color=0e75b6&style=flat" alt="DiyazY" />  
 
 📫 How to reach me: [mail](mailto:diyaz.yakubov@gmail.com) | [linktree](https://linktr.ee/diyaz)  
