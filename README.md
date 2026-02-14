@@ -19,3 +19,8 @@ I’m a passionate software engineer with a strong focus on web development. Bey
   - 🌫️ "noname": tool for 2nd-hand market
 * ✍️ Writing blogs on [medium!](https://medium.com/@diyaz.yakubov)
 * 📚 Publishing low-content books on [Amazon KDP!](https://www.amazon.com/mr-Diyaz-Yakubov/e/B0DTFKTNT3/?_encoding=UTF8&pd_rd_w=fD8co&content-id=amzn1.sym.7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_p=7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_r=147-7826510-5930550&pd_rd_wg=iJfq5&pd_rd_r=da2db57d-be0a-4fdb-a91f-499be332b787)
+
+### Want ToDo
+* wood-project
+* ERP/CRM like system for small business
+* publishing a book
