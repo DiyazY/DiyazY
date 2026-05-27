@@ -10,7 +10,7 @@ I’m a passionate software engineer with a strong focus on web development. Bey
 * ~~⚡ organize the IT <a href="https://dotnetfin.com/">community</a>~~ => failed!
 * ~~💬 enhance my twitter audience~~ => failed!
 * 🏋️‍♀️ I am currently working on:
-  - 🧠 [busypipe.com](https://busypipe.com/): Social Intelligent Platform 🚀🚀🚀-up&run
+  - 🧠 [busypipe.com](https://busypipe.com/): Social Intelligence Platform 🚀🚀🚀-up&run
   - 🎰 [eurojackpotstats.eu](https://eurojackpotstats.eu/): yet another eurojackpot stats 🚀-up&run
   - 🌸 [salpon.com](https://salpon.com/): 'event' management 🚀-up&run
   - 🛒 scandicity: e-commerce system
