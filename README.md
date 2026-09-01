@@ -15,7 +15,7 @@ I’m a passionate software engineer with a strong focus on web development. Bey
   - 🌸 [salpon.com](https://salpon.com/): 'event' management 🚀-up&run
   - 🛒 scandicity: e-commerce system
   - 🌐 [toptop.dev](https://toptop.dev/): company page 🚀-up&run
-  - 🌐 [diyazy.github.io](https://diyazy.github.io/): personal website 🚀-up&run
+  - 🌐 [diyaz.dev](https://diyaz.dev): personal website 🚀-up&run
   - 🌫️ "noname": tool for 2nd-hand market
   - ⏲ [daywatch](https://github.com/DiyazY/daywatch) - A lightweight, cross-platform desktop tray app that reads time-blocked markdown plans and sends native notifications 🚀-up&run
 * ✍️ Writing blogs on [medium!](https://medium.com/@diyaz.yakubov)
